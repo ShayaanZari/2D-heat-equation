@@ -7,3 +7,5 @@ Interface for simulating the heat equation on a grid
 
 ### Dirichlet Boundary Conditions (Fixed)
 ![alt2](gifs/out.gif?raw=true "Title")
+
+### Writeup (soon)
