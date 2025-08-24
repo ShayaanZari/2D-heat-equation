@@ -2,6 +2,8 @@
 Interface for simulating the heat equation on a grid
 
 
-### Neumann Boundary Conditions (Ghost Cells)
+### Neumann Boundary Conditions (Time-Dependent)
+![alt1](gifs/out_neumann.gif?raw=true "Title")
 
-![alttest](gifs/out.gif?raw=true "Title")
+### Dirichlet Boundary Conditions (Fixed)
+![alt2](gifs/out.gif?raw=true "Title")
